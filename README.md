@@ -45,11 +45,11 @@
 
 本课程设计使用到的数据结构定义如下：
 
-![image-20230108191651747](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20230108191651747.png)
+![image-20230108191651747](./images/a.png)
 
 模块说明：
 
-![image-20230108192037450](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20230108192037450.png)
+![image-20230108192037450](./images/b.png)
 
 函数调用关系图：
 
@@ -57,11 +57,11 @@
 
 主程序伪代码：
 
-![image-20230108192218912](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20230108192218912.png)
+![image-20230108192218912](./images/c.png)
 
 主要模块伪代码：
 
-![image-20230108192310201](C:\Users\Keikei\AppData\Roaming\Typora\typora-user-images\image-20230108192310201.png)
+![image-20230108192310201](./images/d.png)
 
 
 
