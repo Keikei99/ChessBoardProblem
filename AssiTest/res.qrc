@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Image/th.png</file>
+        <file>Image/background.png</file>
+        <file>Image/Exit.png</file>
+        <file>Image/Info.png</file>
+        <file>Image/Restart.png</file>
+        <file>HelpText.txt</file>
+        <file>Image/Computer.png</file>
+        <file>Image/Play.png</file>
+        <file>Image/th.ico</file>
+    </qresource>
+</RCC>
