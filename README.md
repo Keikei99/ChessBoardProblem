@@ -16,9 +16,9 @@
 
 程序流程图和函数流程图如图1和图2所示。
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps1.jpg)
+![img](./images/wps1.jpg)
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps2.jpg)
+![img](./images/wps2.jpg)
 
 本程序以马的起始位置坐标(i, j)作为输入，其中1<=i, j<=8，同时以带有标号的棋盘作为程序的输出。程序能够根据给定的起始位置坐标进行循环遍历，找到马完全遍历棋盘的路线。若输入输入的起始坐标满足条件1<=i, j<=8，则输入正确，需要输出马遍历棋盘的完整路线，否则输入错误，需要输出对应的指示引导使用者重新输入。
 
@@ -32,7 +32,7 @@
 
 (i-2,j+1)、(i-1,j+2)、(i+1,j+2)、(i+2,j+1)、(i+2,j-1)、(i+1,j-2)、(i-1,j-2)、(i-2,j-1)
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps3.jpg)
+![img](./images/wps3.jpg)
 
 因此规定移动矩阵Move如下表1所示。
 
@@ -53,7 +53,7 @@
 
 函数调用关系图：
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps4.jpg)
+![img](./images/wps4.jpg)
 
 主程序伪代码：
 
@@ -113,33 +113,33 @@
 
 ### QT Creator的分文件结构
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps5.jpg)
+![img](./images/wps5.jpg)
 
 ## 用户手册
 
 如图6所示，在本次数据结构课程设计中使用QT Creator软件制作了算法的可视化界面。通过选定初始点的横坐标和纵坐标，即可对算法进行遍历计算，进而呈现马遍历棋盘的完整路线。
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps6.jpg)
+![img](./images/wps6.jpg)
 
 如图7所示，本次以初始点(5, 2)为例子，选定初始横坐标为5，初始纵坐标为2，点击“计算结果”按钮，对棋子的运行路线进行遍历计算。
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps7.jpg)
+![img](./images/wps7.jpg)
 
 上图清晰呈现了马从(5, 2)点遍历全棋盘的次序，此时点击“动画演示”按键可以逐步呈现马的行走路线。如图所示，棋盘中红色格子代表马所在的位置，绿色格子代表马已经走过的位置。
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps8.jpg)
+![img](./images/wps8.jpg)
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps9.jpg)
+![img](./images/wps9.jpg)
 
 演示完毕。若需要重新演示，可以点击棋盘旁的“重新开始”按钮或点击“开始菜单”中的“重新开始”按钮重新选择测试用例。
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps10.jpg)
+![img](./images/wps10.jpg)
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps11.jpg)
+![img](./images/wps11.jpg)
 
 点击“开始菜单”的帮助文档按钮可以查询马踏棋盘中马的行走规则和程序的相关使用方法。
 
-![img](file:///D:\重要文件\Temp\ksohtml24352\wps12.jpg)
+![img](./images/wps12.jpg)
 
 # **参考资料**
 
